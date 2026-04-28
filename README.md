@@ -1,96 +1,45 @@
-# AI Fluency Index — Research Summary
-
-**Source:** Anthropic Education Report, February 2026  
-**Summary prepared by:** Intersection Strategies LLC
-
+# Anthropic Reports: Practitioner Summaries
+ 
+Plain-language breakdowns of Anthropic research, prepared by [Intersection Strategies LLC](https://intersectionstrategies.co).
+ 
+Most AI research gets published for researchers. These summaries are built for the professionals who need to act on it — people in business, consulting, financial services, and operations who are navigating AI adoption without a technical background.
+ 
+Each summary covers what the research actually found, what it means in plain terms, and why it matters now.
+ 
 ---
-
-## What This Is
-
-Anthropix released a research report measuring how well people actually use AI — not just whether they use it at all. They studied **9,830 real conversations** on Claude.ai during a single week in January 2026, looking for 11 specific behaviors that signal whether someone is using AI effectively. They called this the **AI Fluency Index**.
-
+ 
+## Reports
+ 
+### AI Fluency Index (February 2026)
+ 
+**What separates effective AI users from everyone else.**
+ 
+Anthropic studied 9,830 real conversations to identify the 11 behaviors that determine whether someone is actually using AI well — or just using it. The findings are counterintuitive. The gap between fluent and non-fluent users isn't about which tools they use. It's about how they collaborate.
+ 
+Key finding: People who iterate and push back on AI outputs demonstrate more than double the fluency behaviors of people who take the first answer and move on. Only 30% of users set any expectations for how AI should behave.
+ 
+→ [Download the 4-page summary (PDF)](./AI_Fluency_Index_Summary.pdf)
+ 
 ---
-
-## The Core Question
-
-Two people can use the exact same AI tool. One gets dramatically better results. The other gets faster mediocrity. What's the difference?
-
+ 
+### 2026 Agentic Coding Trends Report (2026)
+ 
+**How AI agents are reshaping software development — and every department connected to it.**
+ 
+Anthropic identified eight trends defining how AI and software development intersect in 2026. The report draws on internal research, customer data, and studies of how engineers actually work with AI today. The implications reach well beyond software teams.
+ 
+Key finding: Engineers report using AI in roughly 60% of their work — but say they can fully delegate only 0–20% of tasks. AI is a constant collaborator, not a replacement. The organizations figuring out where human judgment still matters are the ones moving fastest.
+ 
+→ [Download the summary (PDF)](./2026_Agentic_Coding_Trends_Summary.pdf)
+ 
 ---
-
-## The Biggest Finding
-
-The single behavior that separates high-performing AI users from everyone else is **iteration** — going back and forth, refining, building on what the AI gave you instead of taking the first answer and moving on.
-
-- **85.7%** more fluency behaviors appear in iterative conversations
-- Only **30%** of conversations showed iteration and refinement
-- Only **30%** of users explicitly set expectations for how AI should behave
-
-People who iterate don't just get better answers — they also demonstrate significantly higher rates of every other fluency behavior: fact-checking, questioning reasoning, identifying what's missing.
-
+ 
+## About These Summaries
+ 
+These documents are prepared by James Bonaguro, founder of Intersection Strategies LLC. The goal is simple: take research that matters and make it usable for the professionals who need it most but are least likely to read a 20-page technical report.
+ 
+If you found these useful or want to talk about what they mean for your organization, connect on [LinkedIn](https://linkedin.com/in/jamesbonaguro) or reach out directly at james@intersectionstrategies.co.
+ 
 ---
-
-## The Hidden Trap: Polished Outputs
-
-When AI produces something that *looks* finished — code, a document, an app — people actually get **worse** at evaluating it.
-
-| What improves with polished outputs | What gets worse |
-|---|---|
-| Clearer goals at the start | 5.2% less likely to spot missing context |
-| Better formatting instructions | 3.7% less likely to check facts |
-| More iteration overall | 3.1% less likely to question reasoning |
-
-When something looks like a finished product, our brains treat it like one. The polish signals completion even when the thinking behind it might be flawed.
-
----
-
-## The 11 Behaviors of AI-Fluent Users
-
-| Behavior | What It Actually Means |
-|---|---|
-| Iterating and refining | Building on previous exchanges instead of accepting the first answer |
-| Clarifying goals upfront | Telling the AI what you're actually trying to accomplish before asking |
-| Specifying format | Asking for output in a particular structure, length, or style |
-| Providing examples | Giving the AI a sample of what good looks like |
-| Setting behavioral expectations | Telling the AI how to behave — push back, be concise, ask questions |
-| Identifying missing context | Noticing when the AI doesn't have information it needs |
-| Questioning reasoning | Asking *why* instead of just accepting the answer |
-| Fact-checking outputs | Verifying what the AI says against other sources |
-| Redirecting when off-track | Catching when the AI misunderstood and correcting course |
-| Synthesizing across turns | Connecting information from earlier in the conversation |
-| Applying outputs to real decisions | Using AI responses to actually inform choices, not just generate content |
-
----
-
-## What Most People Do Wrong
-
-- They treat AI like Google. Ask a question, get an answer, move on.
-- They accept the first response. Even when iterating, many only refine once and stop.
-- They don't set the rules. 70% of users never tell the AI how they want it to behave.
-- They stop thinking when the output looks good.
-- They use AI as a replacement for thinking instead of a partner in thinking.
-
----
-
-## What Fluent Users Do Differently
-
-- Start with context, not just a question — background, constraints, what good looks like
-- Stay in the conversation — back and forth, not one and done
-- Challenge the output — *Why did you say that? What are you assuming? What's missing?*
-- Set behavioral rules upfront — *Push back if my reasoning is weak. Ask clarifying questions. Keep it under 200 words.*
-- Maintain their own judgment — AI accelerates their thinking. It doesn't replace it.
-
----
-
-## The Gap This Research Exposes
-
-There's a meaningful difference between someone who **knows how to use AI** and someone who **knows how to think with it**.
-
-The behaviors are learnable. Most people just haven't been taught them.
-
----
-
-## About This Summary
-
-This document was prepared by [Intersection Strategies LLC](https://github.com/James-Bonaguro) as part of ongoing work in AI onboarding, training, and workflow design for SMBs. The findings from this research directly inform how we approach AI fluency coaching and onboarding programs.
-
-**Source:** Anthropic Education Report, February 2026
+ 
+*Source material published by Anthropic. Summaries prepared by Intersection Strategies LLC.*
