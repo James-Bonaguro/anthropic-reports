@@ -1,8 +1,8 @@
-# Anthropic Reports: Practitioner Summaries
+# Anthropic Reports — Practitioner Summaries
  
-Plain-language breakdowns of Anthropic research, prepared by [Intersection Strategies LLC](https://intersectionstrategies.co).
+Plain-language breakdowns of 2026 Anthropic research reports.
  
-Most AI research gets published for researchers. These summaries are built for the professionals who need to act on it. Professionals in business, consulting, financial services, and operations who are navigating AI adoption without a technical background.
+Most AI research gets published for researchers. These summaries are built for the professionals who need to act on it — people in business, consulting, financial services, and operations who are navigating AI adoption without a technical background.
  
 Each summary covers what the research actually found, what it means in plain terms, and why it matters now.
  
@@ -24,7 +24,7 @@ Key finding: People who iterate and push back on AI outputs demonstrate more tha
  
 ### 2026 Agentic Coding Trends Report (2026)
  
-**How AI agents are reshaping software development, and every department connected to it.**
+**How AI agents are reshaping software development — and every department connected to it.**
  
 Anthropic identified eight trends defining how AI and software development intersect in 2026. The report draws on internal research, customer data, and studies of how engineers actually work with AI today. The implications reach well beyond software teams.
  
